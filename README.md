@@ -9,6 +9,12 @@
 # MARCO TEORICO 
 En las siguientes diapositivas se nos presentara cada uno de los temas que se encuentran presentes en los capítulos tres y cuatro del libro Principios de circuitos eléctricos como por ejemplo temas como la ley de ohm, La relación de corriente, voltaje y resistencia, Cálculo de la corriente, Cálculo del voltaje de manera resumida para una mejor comprensión de cada tema y así poder satisfacer dudas que se tiene respecto a cada una de ellos.
 ## CAPITULO 3
+![image](https://user-images.githubusercontent.com/116833211/202503496-65b4777c-9d99-4acd-ae97-43d6549d96e4.png)
+![image](https://user-images.githubusercontent.com/116833211/202503658-96fddd45-005c-484d-ae2c-81a38275a05b.png)
+![image](https://user-images.githubusercontent.com/116833211/202503746-b8bee22a-c38b-4e43-913b-8a811b465734.png)
+![image](https://user-images.githubusercontent.com/116833211/202503816-6881fd8c-ebad-4865-b9ba-6cf4f8606efc.png)
+![image](https://user-images.githubusercontent.com/116833211/202503862-cd4a7ae3-c4b1-447d-9fa5-db8ab6f46b61.png)
+
 ![image](https://user-images.githubusercontent.com/116833211/202391402-a180a05b-2924-4384-89ab-419cc04f4c04.png)
 ![image](https://user-images.githubusercontent.com/116833211/202391465-4619cd92-1bf6-4e3b-9789-90ae102e316f.png)
 ## CAPITULO 4
@@ -27,6 +33,7 @@ En las siguientes diapositivas se nos presentara cada uno de los temas que se en
 ![image](https://user-images.githubusercontent.com/116833211/202393119-59a9a799-bdda-4dfd-aa34-449185b143c2.png)
 ![image](https://user-images.githubusercontent.com/116833211/202393168-382e61f2-362f-4d49-99bf-6ee9fca56864.png)
 # 4. VIDEO
+https://www.youtube.com/watch?v=5fp5TVQ0glw
 # 5. CONCLUSIONES
 * Esta tarea fue de gran ayuda para poder comprender de manera más completa sobre la ley de ohm y sobre la energía y la potencia etc. Y así también facilito la comprensión para poder realizar los ejercicios planteados.
 * Así también la tarea aclaro ciertas dudas que se presentaron sobre los temas vistos en clases sobre ley de ohm las unidades de medición y todos los cálculos sobre voltaje, resistencia y corriente.
