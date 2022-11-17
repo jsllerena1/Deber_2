@@ -15,6 +15,9 @@ En las siguientes diapositivas se nos presentara cada uno de los temas que se en
 ![image](https://user-images.githubusercontent.com/116833211/202391553-451f43f0-7116-4859-b312-9c908905e561.png)
 # 3. EJERCICIOS 
 ## Ejercicios Capitulo 3 Impares 
+![image](https://user-images.githubusercontent.com/116833211/202409254-eb2a08c4-31cd-458b-a152-8617b663a6ee.png)
+![image](https://user-images.githubusercontent.com/116833211/202409348-c1e08417-551a-4951-97fd-41037bb12454.png)
+![image](https://user-images.githubusercontent.com/116833211/202409422-38266041-eaab-4688-bc2f-eb43e304527e.png)
 ## Ejercicios Capitulo 4 Impares 
 ![image](https://user-images.githubusercontent.com/116833211/202392956-afc55c40-07b5-45f3-9e43-4f0a91a10c4e.png)
 ![image](https://user-images.githubusercontent.com/116833211/202393017-09a2e2d5-1c80-4150-ba61-e822d607546b.png)
